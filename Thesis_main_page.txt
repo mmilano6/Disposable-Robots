@@ -1,0 +1,4 @@
+As robotics and artificial intelligence continues to become more of our daily lives, what happens when they become so affordable that they are embedded in everything we use. Imagine going to the grocery store and everything that comes in a package has small disposable robot attached to it. My current work has been focused on disposable robots and how they effect our daily life. As of now this repo serves as a place for me to document and reflect on my experiments. 
+
+
+
