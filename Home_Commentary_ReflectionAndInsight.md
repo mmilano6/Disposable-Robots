@@ -62,6 +62,7 @@ This piece started with an interest in how different IoT devices would communica
 But the questions I was interested in were still valid. What would a conversation between two AIs be like? Would they recognize that they both are AI’s? What would the leisurely conversation be about? Would they be able to recognize one another if they were in disguises?
 
 
+![smart_devices](https://user-images.githubusercontent.com/30060990/34659994-acc8d14c-f3f3-11e7-9e4c-6bd89a590485.png)
 
 At this point, in a crit, the idea of phatic language came up, and whether or not AI devices would begin to be able to convey this form of communication. Phatic language is a very human aspect of conversation, which led me to start thinking about its ties to emotion. I started to think about if we gave smart devices the ability to detect human emotion if they would learn to, and start to, detect emotion from the other devices it works with. This lead me to question whether, by giving AI the ability to detect emotion, would they eventually start detecting it in other devices. Would they develop emotions of their own?
 
@@ -74,6 +75,8 @@ Previous / Next image (4 of 4)
 
 
 Now that I had the foundation of the context to my project I felt I needed something to really root the project in a believable reality of some kind. Upon further exploration I found some already existing absurd smart devices, and started to envision how they might interact emotionally. I decided to pick two devices, and further map out possible emotional experiences that might occur.
+
+![gifs_chat_bot_2_samll](https://user-images.githubusercontent.com/30060990/34660020-e4a0a68a-f3f3-11e7-8efc-27f6f6491159.gif)
 
 To explore this, I built an AI chatbot of Smart fork, using IBM watson conversations. This was my first sketch, and I tried to train the network on conversation that would convey jealousy. This was a weird experience because I basically had to have a conversation with myself, while simultaneously trying to control the conversation, and build up a big enough knowledge bank of words to keep the dialogue conversational. One of the most interesting things from this experience was watching the network learn to properly identify things refereed to as it. Once I got the chatbot running, I took a step away and started to do other sketches in After Effects to simply explore what a room full of IoT devices talking would be like. I was doing this during the day and at night I while I was winding down and drinking a beer, I would train my chatbot more. Finally I started to think about how a lot of the communication would be repetitive, describing whatever task they were doing so I started making GIFs to sketch out what that might be like. The final science fair display included the chat bot for people to interact with, two of the video sketches, and a few GIFs. I left the chat bot hierarchy up so the user could see how the chatbot worked.
 
