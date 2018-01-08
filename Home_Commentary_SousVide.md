@@ -29,3 +29,4 @@ ____________
 The writing of this page was generated using char-rnn by Andrej Karpathy
 
 The the Recurrent Neural Network was trained on twenty five pages of my writing for my cargo site.
+http://cargocollective.com/michaelmilanodesign
